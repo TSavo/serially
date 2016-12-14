@@ -24,4 +24,4 @@ toBeSerialized.circularReference = toBeSerialized;
 var str = serially.serialize(toBeSerialized);
 
 //Deserialize the graph
-serially.unserialize(str);
+serially.deserialize(str);
