@@ -56,7 +56,7 @@ toBeSerialized.circularReference = toBeSerialized;
 var str = serially.serialize(toBeSerialized);
 
 //Deserialize the graph
-var deserialized = serially.unserialize(str);
+var deserialized = serially.deserialize(str);
 
 toBeSerialized.int.should.equal(deserialized.int);
 toBeSerialized.str.should.equal(deserialized.str);
