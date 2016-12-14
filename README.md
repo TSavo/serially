@@ -1,6 +1,6 @@
 # The Serially Function Serialization Javascript Library
 
-[![build status](https://gitlab.com/TSavo/serially/badges/master/build.svg)](https://gitlab.com/TSavo/serially/commits/master) [![coverage report](https://gitlab.com/TSavo/serially/badges/master/coverage.svg)](https://gitlab.com/TSavo/serially/commits/master)
+[![build status](https://gitlab.com/TSavo/serially/badges/master/build.svg)](https://gitlab.com/TSavo/serially/commits/master) [![coverage report](https://gitlab.com/TSavo/serially/badges/master/coverage.svg)](https://gitlab.com/TSavo/serially/commits/master) [![npm version](https://badge.fury.io/js/serially.svg)](https://badge.fury.io/js/serially) [![dependencies Status](https://david-dm.org/tsavo/serially/status.svg)](https://david-dm.org/tsavo/serially) 
 
 [ ![Codeship Status for TSavo/serially](https://app.codeship.com/projects/0e77e010-a465-0134-9d74-3a669caf4c8a/status?branch=master)](https://app.codeship.com/projects/190527) [![Build Status](https://travis-ci.org/TSavo/serially.svg?branch=master)](https://travis-ci.org/TSavo/serially) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/e50b77ccb40d41c8b560200943ae3f45)](https://www.codacy.com/app/evilgenius/serially?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=TSavo/serially&amp;utm_campaign=Badge_Grade)
 
