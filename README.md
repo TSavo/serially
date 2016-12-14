@@ -79,4 +79,4 @@ deserialized.circularReference.circularReference.circularReference.circularRefer
 ```
 
 # Contributing
-Pull requests are welcome, please file any bugs on https://github.com/tsavo/serially-js
+Pull requests are welcome, please file any bugs on https://github.com/tsavo/serially
