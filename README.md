@@ -1,5 +1,7 @@
 # The Serially Function Serialization Javascript Library
 
+[![build status](https://gitlab.com/TSavo/serially/badges/master/build.svg)](https://gitlab.com/TSavo/serially/commits/master) [![coverage report](https://gitlab.com/TSavo/serially/badges/master/coverage.svg)](https://gitlab.com/TSavo/serially/commits/master)
+
 [ ![Codeship Status for TSavo/serially](https://app.codeship.com/projects/0e77e010-a465-0134-9d74-3a669caf4c8a/status?branch=master)](https://app.codeship.com/projects/190527) [![Build Status](https://travis-ci.org/TSavo/serially.svg?branch=master)](https://travis-ci.org/TSavo/serially)
 
 ## What it does
