@@ -1,0 +1,18 @@
+image: node:7.1
+
+all_tests:
+  script:
+   - npm install
+   - npm test
+   - npm run-script codacy
+   - npm run-script codeclimate
+
+deploy:
+  script:
+    - npm install
+    - npm run semantic-release
+    - git remote set-url --push origin https://$GITLAB_SERVER_FQDN.git
+    - git push --tags
+  only:
+    - master
+   
