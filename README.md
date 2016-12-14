@@ -1,5 +1,7 @@
 # The Serially Function Serialization Javascript Library
 
+[ ![Codeship Status for TSavo/serially](https://app.codeship.com/projects/0e77e010-a465-0134-9d74-3a669caf4c8a/status?branch=master)](https://app.codeship.com/projects/190527)
+
 ## What it does
 
 Serializes circular references and other unserializable types like Dates, .prototype and functions to JSON.
